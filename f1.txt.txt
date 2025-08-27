@@ -1,5 +1,9 @@
 this is first line
+<<<<<<< Updated upstream
 this is second line
 code fix f1
 this is thirdline
 fix crash
+=======
+this is second line
+>>>>>>> Stashed changes
